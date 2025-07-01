@@ -29,9 +29,8 @@ D) Contributions & Relevance
 
 2. Lee et al. (2018)
    
-  "Diagnosis and Prediction of Periodontally Compromised Teeth Using a Deep Learning‑Based Convolutional Neural Network Algorithm." Journal of Periodontal & Implant Science, 48(2), 114–123.
-  
-                                    [https://pubmed.ncbi.nlm.nih.gov/38179345/]
+  "Diagnosis and Prediction of Periodontally Compromised Teeth Using a Deep Learning‑Based Convolutional Neural Network Algorithm." Journal of Periodontal & Implant Science, 48(2), 114–123 
+  [https://pubmed.ncbi.nlm.nih.gov/38179345/]
    
 A) Dataset & Context
   - Used periapical radiographic images of 224 premolars and molars, clinically diagnosed for periodontally compromised teeth (PCT).
