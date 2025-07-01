@@ -1,6 +1,7 @@
 
 ## 🔬 References
 1. Park et al. (2023)
+   
   "Periodontal Disease Classification with Color Teeth Images Using Convolutional Neural Networks." Electronics, 12(7), 1518.
                                     [https://www.mdpi.com/2079-9292/12/7/1518]
    
@@ -23,10 +24,11 @@ D) Contributions & Relevance
 
 
 
-
+-------------------------------------------------------------------------------------------------
 
 
 2. Lee et al. (2018)
+   
   "Diagnosis and Prediction of Periodontally Compromised Teeth Using a Deep Learning‑Based Convolutional Neural Network Algorithm." Journal of Periodontal & Implant Science, 48(2), 114–123.
                                     [https://pubmed.ncbi.nlm.nih.gov/38179345/]
    
