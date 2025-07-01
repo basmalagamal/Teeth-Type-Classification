@@ -3,6 +3,7 @@
 1. Park et al. (2023)
   "Periodontal Disease Classification with Color Teeth Images Using Convolutional Neural Networks." Electronics, 12(7), 1518.
                                     [https://www.mdpi.com/2079-9292/12/7/1518]
+   
 A) Dataset & Preprocessing
   - Collected 220 frontal RGB images of teeth (82 healthy, 138 with calculus/inflammation) from the internet.
   - Labeled and cropped single-tooth regions using manual annotation tools, verified by dental experts
@@ -18,9 +19,13 @@ D) Contributions & Relevance
 
 
 
+
+
+
 2. Lee et al. (2018)
 "Diagnosis and Prediction of Periodontally Compromised Teeth Using a Deep Learning‑Based Convolutional Neural Network Algorithm." Journal of Periodontal & Implant Science, 48(2), 114–123.
                                     [https://pubmed.ncbi.nlm.nih.gov/38179345/]
+   
 A) Dataset & Context
   - Used periapical radiographic images of 224 premolars and molars, clinically diagnosed for periodontally compromised teeth (PCT).
   - Dataset split into train/validation/test: 1,044 / 348 / 348 images
